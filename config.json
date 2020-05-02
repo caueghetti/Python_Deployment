@@ -1,0 +1,15 @@
+[
+    {
+        "host":"000.000.000.000",
+        "user":"root",
+        "pass":"root",
+        "arquivos":[
+            {
+                "remote_path":"/home/teste/workspace/",
+                "orig_path":"/home/wortref/WorkSpace/TesteDir/teste.py"
+            }
+        ],
+        "command_after_deployment":"python /home/teste/workspace/teste.py"
+        
+    }
+]
